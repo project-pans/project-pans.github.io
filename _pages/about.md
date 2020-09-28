@@ -10,9 +10,11 @@ Jonathan Aldridge
 
 Ben Beauchamp
 
-<img src="/assets/images/bio-photo.jpg" width="200" height="200" >
+<img src="/assets/images/giraffe.png" width="200" height="200" >
 
-Zachary Leggett
+## Zach Leggett
+
+My name is Zach Legget, and I am a senior in Computer Engineering at Auburn University. I am heavily intersested in cybersecurity and hope to work in the cybersecurity industry upon graduating.
 
 <img src="/assets/images/bio-photo.jpg" width="200" height="200" >
 
