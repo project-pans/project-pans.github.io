@@ -16,7 +16,7 @@ Ben Beauchamp
 
 My name is Zach Legget, and I am a senior in Computer Engineering at Auburn University. I am heavily interested in cybersecurity and hope to work in the cybersecurity industry upon graduating.
 
-<img src="/assets/images/Jeremy_photo.JG" width="200" height="200" >
+<img src="/assets/images/Jeremy_Photo.png" width="200" height="200" >
 
 ## Jeremy Plunkett
 
