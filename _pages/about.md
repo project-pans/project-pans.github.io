@@ -6,7 +6,7 @@ title: "About"
 
 Jonathan Aldridge
 
-<img src="/assets/images/IMG_1512.jpeg" width="100" height="300" >
+<img src="/assets/images/IMG_1512.jpeg" width="200" height="200" >
 
 ## Ben Beauchamp
 
