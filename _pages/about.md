@@ -6,7 +6,7 @@ title: "About"
 
 Jonathan Aldridge
 
-<img src="/assets/images/sr design profile.png" width="200" height="200" >
+<img src="/assets/images/sr design profile.png" width="150" height="250" >
 
 ## Ben Beauchamp
 
