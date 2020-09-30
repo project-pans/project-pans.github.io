@@ -8,7 +8,9 @@ Jonathan Aldridge
 
 <img src="/assets/images/bio-photo.jpg" width="200" height="200" >
 
-Ben Beauchamp
+## Ben Beauchamp
+
+My name is Ben Beauchamp, and I am a senior in Electrical Engineering at Auburn University. I have experience in the power field through my co-op, but I am interested in a variety of fields in EE.
 
 <img src="/assets/images/giraffe.png" width="200" height="200" >
 
