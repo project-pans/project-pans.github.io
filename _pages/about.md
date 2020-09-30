@@ -12,7 +12,7 @@ Jonathan Aldridge
 
 My name is Ben Beauchamp, and I am a senior in Electrical Engineering at Auburn University. I have experience in the power field through my co-op, but I am interested in a variety of fields in EE.
 
-<img src="/assets/images/giraffe.png" width="100" height="200" >
+<img src="/assets/images/giraffe.png" width="100" height="400" >
 
 ## Zach Leggett
 
