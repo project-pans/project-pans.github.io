@@ -4,9 +4,11 @@ title: "About"
 ---
 <img src="/assets/images/bio-photo.jpg" width="200" height="200" >
 
-Jonathan Aldridge
+## Jonathan Aldridge
 
-<img src="/assets/images/sr design profile.png" width="200" height="250" >
+My name is Jonathan Aldridge, an I am a senior in Computer Engineering at Auburn University. I have an interest in the field of cybersecurity, and hope to learn as much about it as I can.
+
+<img src="/assets/images/jon_photo.png" width="200" height="250" >
 
 ## Ben Beauchamp
 
