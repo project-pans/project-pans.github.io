@@ -6,7 +6,7 @@ title: "About"
 
 ## Jonathan Aldridge
 
-My name is Jonathan Aldridge, an I am a senior in Computer Engineering at Auburn University. I have an interest in the field of cybersecurity, and hope to learn as much about it as I can.
+My name is Jonathan Aldridge, and I am a senior in Computer Engineering at Auburn University. I have an interest in the field of cybersecurity and hope to learn as much about it as I can.
 
 <img src="/assets/images/sr design profile.png" width="200" height="250" >
 
