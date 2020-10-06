@@ -9,3 +9,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/pantry.jpg
 ---
+
+Welcome to our project website!
+
+Click the Meetings tab above to see meeting notes.
+
+Click the Timeline tab above to see our project timeline.
