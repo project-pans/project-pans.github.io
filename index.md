@@ -9,6 +9,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/pantry.jpg
 ---
+```yaml
+classes: wide
+```
 
 Welcome to our project website!
 
