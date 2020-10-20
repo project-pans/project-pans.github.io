@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 title: "Pantry Application Notification System"
+classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
