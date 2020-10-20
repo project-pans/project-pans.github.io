@@ -20,20 +20,17 @@ PANS will utilize an elevated platform, which contains four plates for our weigh
     <img src="/assets/images/sensor_front.PNG" class="center">
     <figcaption>Weight Sensor Bracket Front View</figcaption>
 </figure>
-<br>
-<br>
+
 <figure>
     <img src="/assets/images/sensor_top.PNG" class="center">
     <figcaption>Weight Sensor Bracket Top View</figcaption>
 </figure>
-<br>
-<br>
+
 <figure>
     <img src="/assets/images/top_View.PNG" class="center">
     <figcaption>Platform Top View</figcaption>
 </figure>
-<br>
-<br>
+
 <figure>
     <img src="/assets/images/front_view.PNG" class="center">
     <figcaption>Platform Front View</figcaption>
