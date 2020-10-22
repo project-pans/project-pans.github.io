@@ -2,8 +2,8 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Meetings"
-    url: /meetings/
+    url: https://drive.google.com/drive/folders/1QgGVGWG2op7hgiMuVGt7MtTtwno1n352
   - title: "Timeline"
-    url: /timeline/
+    url: https://docs.google.com/spreadsheets/d/120OwW1HsScWIFaSJwOBCxG2Z6OXZ6kK9EZuiiHj4pU4/edit?usp=sharing
   - title: "About"
     url: /about/
